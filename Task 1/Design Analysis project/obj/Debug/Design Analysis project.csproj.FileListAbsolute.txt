@@ -1,0 +1,20 @@
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\bin\Debug\Design Analysis project.exe.config
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\bin\Debug\Design Analysis project.exe
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\bin\Debug\Design Analysis project.pdb
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design Analysis project.csproj.AssemblyReference.cache
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.Form1.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.Properties.Resources.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design Analysis project.csproj.GenerateResource.cache
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design Analysis project.csproj.CoreCompileInputs.cache
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design Analysis project.exe
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design Analysis project.pdb
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.Form2.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.maximax.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.maximin.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.EMV.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.EOL.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.equally_likely.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.EVPI.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.EVwPI.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.Home.resources
+C:\Users\FreeComp\source\repos\Design Analysis project\Design Analysis project\obj\Debug\Design_Analysis_project.minimax_regret.resources
